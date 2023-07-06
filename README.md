@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## 😉 I am
+## 😉 Bio
 -  [📚Sungkyunkwan university](https://www.skku.edu/eng/index.do) Computer Education 2018.03~
 <br></br>
 ## 💪 Skills
