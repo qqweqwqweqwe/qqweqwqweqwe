@@ -56,6 +56,9 @@ Here are some ideas to get you started:
 <br></br>
 ## 💡 Stats
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=k0789789)](https://solved.ac/k0789789/)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qqweqwqweqwe&layout=compact&theme=스타일)
+
+
 
 
 
