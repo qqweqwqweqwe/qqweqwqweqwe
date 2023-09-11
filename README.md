@@ -21,10 +21,10 @@ Here are some ideas to get you started:
 ## 💪 Skills
 ### Languages
 - Main :
+![Java](https://img.shields.io/badge/Java-007396.svg?&style=flat&logo=Java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=flat&logo=Python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=flat&logo=JavaScript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933.svg?&style=flat&logo=Node.js&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396.svg?&style=flat&logo=Java&logoColor=white)
 - Sub :
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C.svg?&style=flat&logo=C%2B%2B&logoColor=white)
