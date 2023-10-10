@@ -53,7 +53,6 @@ Here are some ideas to get you started:
 ![Slack](https://img.shields.io/badge/Slack-4A154B.svg?&style=flat&logo=Slack&logoColor=white)
 <br></br>
 ## :mailbox_with_mail: Contacts
-- [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20Blog-20C997?style=flat&logo=Velog&logoColor=white&link=https://velog.io/@manofmen_yj)](https://velog.io/@manofmen_yj)
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat&logo=Naver&logoColor=white&link=mailto:sunkyuj@naver.com)](mailto:k0789789@naver.com)
 <br></br>
 ## 💡 Stats
